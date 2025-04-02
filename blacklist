@@ -1,5 +1,5 @@
 return {
-    ["091C52FC-2A49-4BBE-8FCD-64D25AEE61BB"] = "TestBan34434",
+    ["HWID-23484"] = "TestBan34434",
     ["HWID-67890"] = "Beleidigung",
     ["HWID-ABCDE"] = "Hacking"
 }
